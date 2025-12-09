@@ -5,7 +5,7 @@
 <section class="max-w-[1200px] mx-auto px-6 py-20">
 	<div class="mb-20 max-w-2xl">
 		<h2 class="text-4xl font-serif text-gray-900 mb-6">
-			GTM at full throttle. <span class="text-gray-500 font-sans text-xl font-normal block mt-4">Execute your revenue strategy with precision. Design powerful workflows, deploy AI, integrate your data and build detailed reports — all in one platform.</span>
+			Development at scale. <span class="text-gray-500 font-sans text-xl font-normal block mt-4">Execute complex development workflows with precision. Deploy agentic AI, aggregate multi-source data, and generate expert-verified deliverables — all in one platform.</span>
 		</h2>
 	</div>
 
@@ -14,13 +14,13 @@
 		<div class="grid grid-cols-1 md:grid-cols-3 border-b border-gray-200">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Automate everything</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Agentic AI workflows</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						You're in control. Automate even the most complex business processes with our powerful, intelligent automation engine.
+						Email Dougie to activate autonomous workflows. Our agentic AI processes complex development tasks 24/7, building memory across projects as they develop.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore automations <ArrowRight size={16} />
+					Learn about Dougie <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center overflow-hidden relative">
@@ -31,8 +31,8 @@
 						<div class="flex items-center gap-2 text-xs font-medium text-gray-500 mb-2">
 							<Zap size={12} /> Trigger
 						</div>
-						<div class="text-sm font-medium text-gray-900">When Deal updated</div>
-						<div class="text-xs text-gray-400 mt-1">Trigger when primary contact is updated</div>
+						<div class="text-sm font-medium text-gray-900">New site identified</div>
+						<div class="text-xs text-gray-400 mt-1">Trigger when potential site matches buy-box criteria</div>
 					</div>
 
 					<!-- Path -->
@@ -44,24 +44,24 @@
 					<!-- Branch 1 -->
 					<div class="absolute top-32 -left-20 bg-white border border-gray-200 rounded-lg p-3 shadow-sm w-56">
 						<div class="flex items-center gap-2 text-xs font-medium text-gray-500 mb-2">
-							<div class="w-2 h-2 rounded-full bg-blue-500"></div> Switch
+							<div class="w-2 h-2 rounded-full bg-blue-500"></div> Condition
 						</div>
-						<div class="text-sm font-medium text-gray-900">Health score</div>
+						<div class="text-sm font-medium text-gray-900">Zoning check</div>
 						<div class="mt-2 flex gap-2">
-							<span class="px-2 py-0.5 bg-green-100 text-green-700 text-[10px] rounded">Good</span>
-							<span class="px-2 py-0.5 bg-red-100 text-red-700 text-[10px] rounded">Poor</span>
+							<span class="px-2 py-0.5 bg-green-100 text-green-700 text-[10px] rounded">Approved</span>
+							<span class="px-2 py-0.5 bg-red-100 text-red-700 text-[10px] rounded">Restricted</span>
 						</div>
 					</div>
 
 					<!-- Branch 2 -->
 					<div class="absolute top-32 left-40 bg-white border border-gray-200 rounded-lg p-3 shadow-sm w-56">
 						<div class="flex items-center gap-2 text-xs font-medium text-gray-500 mb-2">
-							<Mail size={12} /> Email
+							<Mail size={12} /> Action
 						</div>
-						<div class="text-sm font-medium text-gray-900">Onboarding manual</div>
+						<div class="text-sm font-medium text-gray-900">Generate feasibility report</div>
 						<div class="flex items-center gap-2 mt-2">
-							<div class="w-6 h-6 rounded-full bg-gray-100 flex items-center justify-center text-[10px]">JD</div>
-							<span class="text-xs text-gray-500">Sent from John Doe</span>
+							<div class="w-6 h-6 rounded-full bg-purple-100 flex items-center justify-center text-[10px]">AI</div>
+							<span class="text-xs text-gray-500">Processed by Dougie</span>
 						</div>
 					</div>
 				</div>
@@ -80,20 +80,20 @@
 		<div class="grid grid-cols-1 md:grid-cols-3 border-b border-gray-200">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Deploy AI</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Expert verification</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						Put our research agent to work and rotate complex tasks that normally require human effort, like prospecting, lead routing and more.
+						Every AI output is verified by industry experts. Our human-in-the-loop model ensures accuracy while maintaining the speed advantage of automation.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore AI <ArrowRight size={16} />
+					Our process <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center relative">
 				<div class="bg-white rounded-xl shadow-sm border border-gray-200 w-full max-w-md overflow-hidden">
 					<div class="p-3 border-b border-gray-100 flex items-center gap-2 bg-gray-50/50">
 						<Bot size={16} class="text-purple-600" />
-						<span class="text-xs font-medium text-gray-700">New task found</span>
+						<span class="text-xs font-medium text-gray-700">Dougie → Expert Review</span>
 					</div>
 					<div class="p-4 space-y-4">
 						<div class="flex gap-3">
@@ -102,24 +102,24 @@
 							</div>
 							<div class="flex-1">
 								<div class="bg-gray-50 rounded-lg p-3 text-sm text-gray-800 mb-2">
-									<p class="font-medium mb-1">Activate PLG motion</p>
-									<p class="text-gray-500 text-xs">Does the company sell software to other businesses?</p>
+									<p class="font-medium mb-1">Site feasibility analysis</p>
+									<p class="text-gray-500 text-xs">Industrial site at 2450 Commerce Dr - zoning, utilities, access</p>
 								</div>
 								
 								<div class="bg-white border border-gray-200 rounded-lg p-3 text-sm text-gray-800 mb-2 shadow-sm">
 									<div class="flex items-center gap-2 mb-2">
-										<div class="w-4 h-4 rounded bg-blue-100 flex items-center justify-center text-[10px] text-blue-600">✓</div>
-										<span class="font-medium">Conduct role of subjectivity?</span>
+										<div class="w-4 h-4 rounded bg-green-100 flex items-center justify-center text-[10px] text-green-600">✓</div>
+										<span class="font-medium">Zoning compliance verified</span>
 									</div>
-									<p class="text-gray-500 text-xs">Yes the company was only found recently.</p>
+									<p class="text-gray-500 text-xs">M-2 zoning permits industrial use. No variances required.</p>
 								</div>
 
-								<div class="bg-white border border-gray-200 rounded-lg p-3 text-sm text-gray-800 shadow-sm">
+								<div class="bg-white border border-orange-200 rounded-lg p-3 text-sm text-gray-800 shadow-sm">
 									<div class="flex items-center gap-2 mb-2">
-										<div class="w-4 h-4 rounded bg-blue-100 flex items-center justify-center text-[10px] text-blue-600">✓</div>
-										<span class="font-medium">Identify key stakeholders</span>
+										<div class="w-4 h-4 rounded bg-orange-100 flex items-center justify-center text-[10px] text-orange-600">!</div>
+										<span class="font-medium">Expert review pending</span>
 									</div>
-									<p class="text-gray-500 text-xs">Who are the key stakeholders at the company?</p>
+									<p class="text-gray-500 text-xs">Utility capacity analysis requires specialist verification</p>
 								</div>
 							</div>
 						</div>
@@ -141,13 +141,13 @@
 		<div class="grid grid-cols-1 md:grid-cols-3 border-b border-gray-200">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Connect any type of data</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Multi-source data aggregation</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						Sync product data, billing data, and everything in between, for a real-time single source of truth for your business.
+						Aggregate data from maps, municipal portals, APIs, national databases, utility records, and proprietary sources for comprehensive market intelligence.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore data <ArrowRight size={16} />
+					Data sources <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center relative">
@@ -202,13 +202,13 @@
 		<div class="grid grid-cols-1 md:grid-cols-3">
 			<div class="p-12 flex flex-col justify-between border-r border-gray-200">
 				<div>
-					<h3 class="text-xl font-bold text-gray-900 mb-4">Powerful reporting</h3>
+					<h3 class="text-xl font-bold text-gray-900 mb-4">Real-time portfolio tracking</h3>
 					<p class="text-gray-500 leading-relaxed mb-8">
-						Create real-time, detailed reports that scale with your data. Visualize, customize, and get deep insights in seconds — not hours.
+						Track assets and markets in real-time with our proprietary ontology. Get instant visibility across your entire development portfolio.
 					</p>
 				</div>
 				<a href="#" class="inline-flex items-center gap-2 text-sm font-medium text-gray-900 hover:opacity-70 transition-opacity">
-					Explore reporting <ArrowRight size={16} />
+					Portfolio management <ArrowRight size={16} />
 				</a>
 			</div>
 			<div class="col-span-2 bg-gray-50/50 p-12 flex items-center justify-center relative">
@@ -216,49 +216,49 @@
 					<!-- Chart 1 -->
 					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
 						<div class="flex items-center justify-between mb-4">
-							<div class="text-xs font-medium text-gray-500">Revenue</div>
+							<div class="text-xs font-medium text-gray-500">Deal Velocity</div>
 							<MoreHorizontal size={14} class="text-gray-400" />
 						</div>
 						<div class="h-32 flex items-end gap-2 justify-between px-2">
-							<div class="w-full bg-pink-100 h-[40%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-200 h-[60%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-300 h-[30%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-400 h-[80%] rounded-t-sm"></div>
-							<div class="w-full bg-pink-500 h-[50%] rounded-t-sm"></div>
+							<div class="w-full bg-gray-900 h-[40%] rounded-t-sm"></div>
+							<div class="w-full bg-gray-800 h-[60%] rounded-t-sm"></div>
+							<div class="w-full bg-gray-700 h-[30%] rounded-t-sm"></div>
+							<div class="w-full bg-gray-600 h-[80%] rounded-t-sm"></div>
+							<div class="w-full bg-gray-500 h-[50%] rounded-t-sm"></div>
 						</div>
 						<div class="flex justify-between mt-2 text-[10px] text-gray-400">
-							<span>Mon</span>
-							<span>Tue</span>
-							<span>Wed</span>
-							<span>Thu</span>
-							<span>Fri</span>
+							<span>Jan</span>
+							<span>Feb</span>
+							<span>Mar</span>
+							<span>Apr</span>
+							<span>May</span>
 						</div>
 					</div>
 
 					<!-- List -->
 					<div class="bg-white p-4 rounded-xl border border-gray-200 shadow-sm space-y-3">
 						<div class="flex items-center justify-between mb-2">
-							<div class="text-xs font-medium text-gray-500">Top Deals</div>
+							<div class="text-xs font-medium text-gray-500">Active Projects</div>
 						</div>
 						<div class="flex items-center gap-2 text-xs">
 							<div class="w-2 h-2 rounded-full bg-green-500"></div>
-							<span class="flex-1">Acme Corp</span>
-							<span class="font-medium">$12k</span>
+							<span class="flex-1">Data Center TX</span>
+							<span class="font-medium">$45M</span>
 						</div>
 						<div class="flex items-center gap-2 text-xs">
 							<div class="w-2 h-2 rounded-full bg-blue-500"></div>
-							<span class="flex-1">Global Inc</span>
-							<span class="font-medium">$8.5k</span>
+							<span class="flex-1">Industrial NJ</span>
+							<span class="font-medium">$28M</span>
 						</div>
 						<div class="flex items-center gap-2 text-xs">
 							<div class="w-2 h-2 rounded-full bg-purple-500"></div>
-							<span class="flex-1">Stark Ind</span>
-							<span class="font-medium">$15k</span>
+							<span class="flex-1">Multifamily CA</span>
+							<span class="font-medium">$62M</span>
 						</div>
 						<div class="flex items-center gap-2 text-xs">
 							<div class="w-2 h-2 rounded-full bg-orange-500"></div>
-							<span class="flex-1">Wayne Ent</span>
-							<span class="font-medium">$22k</span>
+							<span class="flex-1">Office NYC</span>
+							<span class="font-medium">$89M</span>
 						</div>
 					</div>
 				</div>

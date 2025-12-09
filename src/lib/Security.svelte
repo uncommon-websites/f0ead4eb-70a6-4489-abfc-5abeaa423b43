@@ -6,10 +6,10 @@
 	<div class="flex flex-col md:flex-row items-center justify-between gap-12">
 		<div class="max-w-xl">
 			<h2 class="text-3xl font-serif text-gray-900 mb-4">
-				Scale with security. <span class="text-gray-500 font-sans text-lg font-normal">Attio is audited and certified by industry-leading third party standards.</span>
+				Enterprise-grade security. <span class="text-gray-500 font-sans text-lg font-normal">Build is SOC 2 Type II compliant with customer data segmentation and regional data storage options.</span>
 			</h2>
 			<a href="#" class="inline-block mt-4 text-sm font-medium text-gray-600 hover:text-black border border-gray-200 px-4 py-2 rounded-lg hover:border-gray-300 transition-colors">
-				Talk to sales
+				Security details
 			</a>
 		</div>
 

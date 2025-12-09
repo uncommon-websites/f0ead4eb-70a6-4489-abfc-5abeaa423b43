@@ -6,14 +6,14 @@
 	<div class="bg-gray-50 rounded-2xl p-12 md:p-20 flex flex-col md:flex-row items-center justify-between relative overflow-hidden">
 		<div class="relative z-10 max-w-lg">
 			<h2 class="text-4xl font-serif text-gray-900 mb-8 leading-tight">
-				Start with a 14-day<br/>free trial of Pro.
+				Replace six-figure<br/>consulting contracts.
 			</h2>
 			<div class="flex items-center gap-6">
 				<a href="#" class="bg-black text-white text-sm font-medium px-6 py-3 rounded-lg hover:bg-gray-800 transition-colors">
-					Start for free
+					Get started
 				</a>
 				<a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">
-					See our plans
+					Book a demo
 				</a>
 			</div>
 		</div>
